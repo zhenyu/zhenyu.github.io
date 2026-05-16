@@ -1,0 +1,13 @@
+title: Zhenyu Sha
+description: Notes on ML infrastructure, distributed systems, and large-scale training data pipelines
+author: Zhenyu Sha
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+show_excerpts: true
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
