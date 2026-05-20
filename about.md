@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a machine learning infrastructure engineer working on large-scale ML platforms, distributed training, Kubernetes-based orchestration, and training data systems.
+I am a machine learning infrastructure engineer working on large-scale ML platforms, distributed training systems, Kubernetes-based orchestration, and training data infrastructure.
+
+I write about ML infrastructure architecture by grounding high-level design questions in source code, execution contracts, control planes, data lifecycle, and production constraints.
 
 This site is a place for longer-form engineering notes: not polished research papers, not product marketing, but technical thinking about architecture trade-offs, design contracts, and system boundaries.

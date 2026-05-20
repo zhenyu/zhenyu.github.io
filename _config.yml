@@ -1,5 +1,5 @@
 title: Zhenyu Sha
-description: Notes on ML infrastructure, distributed systems, and large-scale training data pipelines
+description: Notes on ML infrastructure, execution contracts, control planes, data lifecycle, and system boundaries
 author: Zhenyu Sha
 theme: minima
 markdown: kramdown
